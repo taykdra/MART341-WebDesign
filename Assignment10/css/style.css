@@ -1,21 +1,26 @@
 body {
   background-color: dark red;
-  border: 2px dashed red;
+  border: 2px dashed white;
   font-family: 'Arial', sans-serif;
-Font color: red;
+Font color: white;
   margin: 0;
   padding: 20px;
 }
 .main-container {
     
-    /* Draw a solid border make it red*/
+    /* Draw a solid border make it white*/
     border-style: solid;
     border-width: 8px;
-    border-color: red;
+    border-color: white;
 margin: auto;
     width:50%;
     padding: 50px;
-    border-bottom: 1px red solid;
+    border-bottom: 1px white solid;
+   /* Color the background dark red. */
+    background : dark red;
+    width: 70%;
+    margin: auto;
+}
 
     /*Add space between the border and its inside elements. */
     padding: 20px;
