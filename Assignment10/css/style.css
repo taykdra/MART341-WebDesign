@@ -1,11 +1,10 @@
 body {
   background-color: dark red;
   border: 2px dashed white;
-  color: white;
   font-family: 'Arial', sans-serif;
 Font color: white;
   margin: 0;
-  padding: 0;
+  padding: 20px;
 }
 .main-container {
     
