@@ -1,1 +1,21 @@
+body{
+    font-family: Arial, sans-serif;
+Font color: white
+}
 
+.main-container {
+    
+    /* Draw a dashed border make it white */
+    border-style: dashed;
+    border-width: 12px;
+    border-color: white;
+    /*Add space between the border and its inside elements. */
+    padding: 12px;
+    /* Apply a color to the background */
+ background-color: #f4f4f4;
+    margin: .5;
+}
+
+div.align{
+    text-align: left;
+}
