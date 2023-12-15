@@ -1,14 +1,20 @@
-/* Apply a girly and pink theme */
+/* Reset some default styles for better cross-browser consistency */
+body, h1, h2, h3, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Apply a pink theme */
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #fce4ec; /* Misty Pink */
+  background-color: #fde4e4; /* Light Pink */
   color: #333;
   line-height: 1.6;
 }
 
 /* Style the header */
 header {
-  background-color: #ff69b4 !important; /* Hot Pink */
+  background-color: #ff6b6b; /* Pink */
   color: #fff;
   padding: 20px;
   text-align: center;
@@ -22,7 +28,7 @@ header {
 
 /* Style headings */
 h1, h2, h3 {
-  color: #ff69b4 !important; /* Hot Pink */
+  color: #ff6b6b; /* Pink */
 }
 
 /* Style paragraphs */
@@ -44,7 +50,7 @@ ul li {
 .button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #ff69b4 !important; /* Hot Pink */
+  background-color: #ff6b6b; /* Pink */
   color: #fff;
   text-decoration: none;
   border: none;
@@ -80,7 +86,7 @@ ul li {
 
 /* Style the footer */
 footer {
-  background-color: #ff69b4 !important; /* Hot Pink */
+  background-color: #ff6b6b; /* Pink */
   color: #fff;
   text-align: center;
   padding: 10px 0;
