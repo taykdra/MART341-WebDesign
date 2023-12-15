@@ -8,7 +8,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: #ff69b4; /* Hot Pink */
+  background-color: #ff69b4 !important; /* Hot Pink */
   color: #fff;
   padding: 20px;
   text-align: center;
@@ -22,7 +22,7 @@ header {
 
 /* Style headings */
 h1, h2, h3 {
-  color: #ff69b4; /* Hot Pink */
+  color: #ff69b4 !important; /* Hot Pink */
 }
 
 /* Style paragraphs */
@@ -44,7 +44,7 @@ ul li {
 .button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #ff69b4; /* Hot Pink */
+  background-color: #ff69b4 !important; /* Hot Pink */
   color: #fff;
   text-decoration: none;
   border: none;
@@ -80,7 +80,7 @@ ul li {
 
 /* Style the footer */
 footer {
-  background-color: #ff69b4; /* Hot Pink */
+  background-color: #ff69b4 !important; /* Hot Pink */
   color: #fff;
   text-align: center;
   padding: 10px 0;
