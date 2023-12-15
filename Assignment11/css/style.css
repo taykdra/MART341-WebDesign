@@ -1,1 +1,22 @@
+div {
+    font-family:'Arial', sans-serif;  
+  color: #555; 
+    background-color: #800080;
+    margin: 10 px;
+}
+
+Title{
+font-family: 'CursiveFont', cursive; 
+    background-color: #CBC3E3;
+    color: #FFD700;
+Font size: 100 px;
+    text-align: center;
+}
+#Flynn:hover {
+    background: url("../images/Flynn.JPEG");
+    float: right;
+    display: block;
+    width: 800 px;
+    height: 1000 px;
+}
 
