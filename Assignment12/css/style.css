@@ -17,7 +17,7 @@ header {
   margin: 20px auto;
 }
 
-h1, h2, h3 {
+h1, h2{
   color: #333;
 }
 
@@ -42,7 +42,6 @@ ul li {
   text-decoration: none;
   border: none;
   border-radius: 5px;
-  cursor: pointer;
 }
 
 .dropdown {
