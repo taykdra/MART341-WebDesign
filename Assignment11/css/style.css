@@ -7,11 +7,13 @@ body {
   padding: 0;
 }
 
-.title {
-  background-color: #CBC3E3;
-  color: #FFFFFF;
-  text-align: center;
-  padding: 10 px;
+#Flynn:hover {
+    background: url("../images/Flynn.JPEG");
+    float: right;
+    display: block;
+    width: 500px;
+    height: 400px;
+
 }
 
 .title p {
