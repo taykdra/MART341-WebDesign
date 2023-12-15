@@ -1,22 +1,49 @@
-div {
-    font-family:'Arial', sans-serif;  
+body {
+  font-family: Arial, sans-serif;
+  background-color: #800080;
+  Color: #FFFFFF;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  background-color: #CBC3E3;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 10 px;
+}
+
+.title p {
+  margin: 0;
+}
+body > div {
+  width: 80%;
+  margin: 20 px auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  float: left;
+  margin-right: 20 px;
+}
+
+p {
+  margin-bottom: 15 px;
+}
+
+#Flynn {
+  font-weight: bold;
   color: #FFFFFF; 
-    background-color: #800080;
-    margin: 10 px;
 }
 
-Title{
-font-family: 'CursiveFont', cursive; 
-    background-color: #CBC3E3;
-    color: #FFD700;
-Font size: 100 px;
-    text-align: center;
+footer {
+  background-color:;
+  Color: #CBC3E3;
+  text-align: center;
+  padding: 10 px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
-#Flynn:hover {
-    background: url("../images/Flynn.JPEG");
-    float: right;
-    display: block;
-    width: 800 px;
-    height: 1000 px;
-}
-
