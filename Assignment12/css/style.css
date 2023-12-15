@@ -1,14 +1,15 @@
-/* Apply pink theme */
+
+/* Apply a clean and simple style */
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #fce4ec; /* Misty Pink */
+  background-color: #f4f4f4; /* Light Gray */
   color: #333;
   line-height: 1.6;
 }
 
 /* Style the header */
 header {
-  background-color: #ff69b4; /* Hot Pink */
+  background-color: #4285f4; /* Blue */
   color: #fff;
   padding: 20px;
   text-align: center;
@@ -22,7 +23,7 @@ header {
 
 /* Style headings */
 h1, h2, h3 {
-  color: #ff69b4; /* Hot Pink */
+  color: #333;
 }
 
 /* Style paragraphs */
@@ -44,7 +45,7 @@ ul li {
 .button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #ff69b4; /* Hot Pink */
+  background-color: #4285f4; /* Blue */
   color: #fff;
   text-decoration: none;
   border: none;
@@ -52,10 +53,9 @@ ul li {
   cursor: pointer;
 }
 
-/* add a drop down feature */
+/* Style a basic dropdown */
 .dropdown {
   position: relative;
- text-align: center;
   display: inline-block;
   margin-left: 10px;
 }
@@ -81,7 +81,7 @@ ul li {
 
 /* Style the footer */
 footer {
-  background-color: #ff69b4; /* Hot Pink */
+  background-color: #333;
   color: #fff;
   text-align: center;
   padding: 10px 0;
