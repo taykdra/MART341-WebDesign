@@ -1,0 +1,2 @@
+I'm sure there are advantages to using a text editor, and the materials in the assignment instructions made it seem like there were. If I knew what I was doing, I'm sure it has its benefits. However, I couldn't get any of my stuff to actually link, and even though it says Assignment 2 and 3 on my text editor, it never showed up here on GitHub.
+One thing I do know is that in comparison to a relative URL, an absolute contains more information. Absolute URLs help in avoiding duplicate sources which is a big help. I'm not sure if one is necessarily better than the other.
